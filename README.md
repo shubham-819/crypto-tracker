@@ -1,1 +1,3 @@
-To run project - 'npm start'
+# To run project
+npm install 
+npm start
